@@ -1,2 +1,2 @@
 # Web-tech
-Learning Web tech
+HTML+CSS+Javascript
