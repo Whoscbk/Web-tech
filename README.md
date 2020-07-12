@@ -6,7 +6,7 @@ HTML+CSS+Javascript
 2. **元素** : element
     element = (begin tag) + (end tag) + 元素内容 + 元素属性（局部属性/全局属性）
 空元素：没有end tag
-3. '''<html lang="en"> '''
+3. &lt;html lang="en"&gt;
     根元素  
     lang属性： language,全局属性
 4. head 头文件
