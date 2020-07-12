@@ -18,7 +18,7 @@ HTML+CSS+Javascript
     **span**: 无语义 仅用于设置样式
     **pre**: 预格式化文本元素
         i.e.取消空白折叠
-6. HTML entity
+6. HTML entity:
     &lt; - <
     &gt; - >
     &copy;
