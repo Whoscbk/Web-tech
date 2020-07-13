@@ -44,12 +44,11 @@ HTML+CSS+Javascript
     area  
 11. figure 元素：用于把图片、图片标题、描述包裹起来  
     子元素： figcaption -- 标题  
-12. 多媒体元素  
-        video src  
+12. 多媒体元素(HTML5,旧版本需要嵌入flash)  
+        video src -- mp4, webm  
             controls 控制视频控件的显示  
             autoplay 自动播放  
             muted 静音播放  
             loop 循环播放  
-
-        audio src  
+        audio src -- mp3  
             同上  
