@@ -23,3 +23,24 @@ HTML+CSS+Javascript
     &gt; - >  
     &copy;  
     &amp;  
+7. a元素  
+    href: 跳转地址； 跳转某个锚点； 功能链接(执行javascript:/mailto:发送邮件/拨号tel:)  
+    id: 全局属性，表示元素在文档中的唯一编号(用于锚链接)  
+    target: 表示跳转窗口位置  
+        _self: 在当前页面窗口中打开  
+        _blank： 在新窗口中打开  
+8. 路径的写法  
+    绝对路径: schema://host:port/path  
+        schema: http,https,file  
+        host: 域名/IP地址  
+        port: http(默认 80)，https(默认 443)  
+    相对路径：./ 表示当前资源所在目录 | ../ 返回上一级目录  
+9. 图片元素  
+    img (空元素)：src,alt  
+    src: source  
+    alt: 当图片失效时替代的文本  
+    usemap  
+10. map 元素  
+    area  
+11. figure 元素：用于把图片、图片标题、描述包裹起来  
+    子元素： figcaption -- 标题  
